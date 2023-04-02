@@ -6,5 +6,7 @@ internal class Program
     {
         DataMahasiswa_1302213102 fahryan = new DataMahasiswa_1302213102();
         fahryan.ReadJSON();
+        KuliahMahasiswa_1302213102 matkul = new KuliahMahasiswa_1302213102();
+        matkul.ReadJSON();
     }
 }
