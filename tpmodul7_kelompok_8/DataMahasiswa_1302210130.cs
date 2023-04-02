@@ -9,14 +9,9 @@ namespace tpmodul7_kelompok_8
 {
     internal class DataMahasiswa_1302210130
     {
-        public string link;
-        public DataMahasiswa_1302210130(string link) 
-        {
-            this.link = link;
-        }
         public void ReadJSON()
         {
-            String jsonString = File.ReadAllText(this.link);
+            String jsonString = File.ReadAllText("C:\\Users\\USER\\OneDrive\\Documents\\Code\\C#\\tpmodul7_kelompok_8\\tp7_1_1302210130.json");
             ContohClassMahasiswa mahasiswa = JsonSerializer.Deserialize<ContohClassMahasiswa>(jsonString);
 
             Console.WriteLine("Nama "+mahasiswa.nama.depan+" "+
