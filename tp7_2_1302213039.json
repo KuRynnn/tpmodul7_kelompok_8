@@ -5,28 +5,32 @@
 			"name": "Konstruksi Perangkat Lunak"
 		},
 		{
-			"code": "kode_matkul_2",
-			"name": "nama_matkul_2"
+			"code": " CRI2E4",
+			"name": "Basis Data"
 		},
 		{
-			"code": "kode_matkul_3",
-			"name": "nama_matkul_3"
+			"code": "CII2J4",
+			"name": "Dasar Jaringan Komputer"
 		},
 		{
-			"code": "kode_matkul_4",
-			"name": "nama_matkul_4"
+			"code": " CII3B4",
+			"name": "Pemrograman Berorientasi Objek"
 		},
 		{
-			"code": "kode_matkul_5",
-			"name": "nama_matkul_5"
+			"code": " CRJ2H3",
+			"name": "Pengalaman Pengguna"
 		},
 		{
-			"code": "kode_matkul_6",
-			"name": "nama_matkul_6"
+			"code": " CRJ2A3",
+			"name": "Penjaminan Mutu Perangkat Lunak"
 		},
 		{
-			"code": "kode_matkul_7",
-			"name": "nama_matkul_7"
+			"code": "CRI2F2",
+			"name": "Proyek Tingkat II"
 		},
+		{
+			"code": "CRJ4C1",
+			"name": "Teknologi Perangkat Lunak Untuk Masyarakat"
+		}
 	]
 }
